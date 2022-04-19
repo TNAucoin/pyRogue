@@ -2,7 +2,7 @@
 name = "pyrogue"
 version = "0.1.0"
 description = ""
-authors = ["TravisAucoin <travis_aucoin@stuller.com>"]
+authors = ["TravisAucoin <travisdevaucoin@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
